@@ -1,0 +1,17 @@
+export const RESTAURANT = {
+  name_ar: "خمس نجوم",
+  name_fr: "Five Stars",
+  phone: "+212609086571",
+  phoneDisplay: "06 09 08 65 71",
+  address_ar: "شارع جورج ساند، فال فلوري، الدار البيضاء 20100",
+  address_fr: "Rue Georges Sand, Val Fleuri, Casablanca 20100",
+  glovoUrl: "https://glovoapp.com",
+  whatsappUrl: "https://api.whatsapp.com/send?phone=212609086571",
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rue+Georges+Sand+Val+Fleuri+Casablanca",
+  mapsEmbed: "https://maps.google.com/maps?q=Rue%20Georges%20Sand%20Val%20Fleuri%20Casablanca&t=&z=15&ie=UTF8&iwloc=&output=embed",
+  instagram: "#",
+  tiktok: "#",
+  facebook: "#",
+  rating: 4.1,
+  reviewCount: 22,
+};
